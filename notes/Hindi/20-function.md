@@ -1,6 +1,6 @@
 ### ==========Functions==========
 
-funcrion vah code hota hain.jise hum bar bar reuse kar skte hain.function ki help sa bhut
+funcrion vah code hota hain.jise hum bar bar re-use kar skte hain.function ki help sa bhut
 bada bada cose ko chote chote parts ma devide kar deya jata hain.
 
 - javascript ma function 3 type sa bana skte hain.
