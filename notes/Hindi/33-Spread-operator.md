@@ -88,7 +88,7 @@ Now, `arr2` is a separate array that contains the same elements as `arr1`. If we
 To summarize, the spread operator in JavaScript is a convenient way to copy an array without modifying the original array.
 
 Hinglish Explanation:
-JavaScript mein Array spread operator ka upyog ek array ko copy karne yaad phir doosre arrays ko ek hi array mein milane ke liye kiya jaata hai. Spread operator ka upyog karne ke liye, hum teen dots (...) ka upyog karte hain aur uske baad array ke naam ka upyog karte hain.
+JavaScript mein Array spread operator ka upyog ek array ko copy karne ya phir doosre arrays ko ek hi array mein milane ke liye kiya jaata hai. Spread operator ka upyog karne ke liye, hum teen dots (...) ka upyog karte hain aur uske baad array ke naam ka upyog karte hain.
 
 Yahaan ek udaharan diya gaya hai ki kis tarah se spread operator ka upyog karke ek array ko copy kiya jaa sakta hai:
 
